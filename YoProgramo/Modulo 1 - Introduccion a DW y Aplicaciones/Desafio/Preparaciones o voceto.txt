@@ -1,0 +1,6 @@
+
+Mi portfolio seria una pagina web o sitio web, pero nada mas avanzado, despues de todo avanzar mas seria innecesario solo para un portfolio.
+
+Va a tener una arquitectura centralizada.
+
+
