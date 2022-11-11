@@ -1,0 +1,17 @@
+#floatinghelp {
+    position: fixed;
+    bottom: 70px;
+    right: 20px;
+}
+
+#floatinghelp .helpcontent {
+    margin-bottom: 15px;
+}
+
+#floatinghelp .helpitem {
+    margin-bottom: 5px;
+}
+
+#helpbtn button {
+    width: 111px;
+}
